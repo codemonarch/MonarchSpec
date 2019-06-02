@@ -1,0 +1,2 @@
+# MonarchSpec
+private pod spec
