@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name          = "commonios"
-    s.version       = "0.1.5"
+    s.version       = "0.1.6"
     s.summary       = "common library for swift"
     s.homepage      = "https://github.com/codemonarch/swift-common"
     s.license       = "MIT"
